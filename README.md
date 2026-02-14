@@ -36,20 +36,7 @@ This project is built using:
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Hero / Home Section
-![Portfolio Screenshot 1](https://github.com/user-attachments/assets/be73a1c3-1d45-4f50-ad26-be6f5e1dbfab)
-
-### 📊 About / Skills / Projects Section
-![Portfolio Screenshot 2](https://github.com/user-attachments/assets/b06a3dc8-d97c-4325-ad11-961eb5844129)
-
-<img width="1173" height="642" alt="image" src="https://github.com/user-attachments/assets/e28a118f-eb5c-4af6-a41c-6b078b5c4292" />
-
-<img width="598" height="382" alt="image" src="https://github.com/user-attachments/assets/05748ad8-4be6-4821-a342-4a889bc074fe" />
-
-
----
 
 ## 📌 Project Structure
 portfolio/
